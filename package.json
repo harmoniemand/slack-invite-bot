@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harmoniemand/slack-invite-bot/issues"
   },
-  "homepage": "https://github.com/harmoniemand/slack-invite-bot#readme"
+  "homepage": "https://github.com/harmoniemand/slack-invite-bot#readme",
+  "dependencies": {
+    "simple-oauth2": "^1.0.0"
+  }
 }
